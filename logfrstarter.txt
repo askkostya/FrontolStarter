@@ -1,1 +1,2 @@
-File not found C:\Program Files (x86)\ATOL\Frontol6\BIN\Frontol.exe
+Success RUNNING Service srvFrontol
+Success RUNNING Service  AtolLicSvc
