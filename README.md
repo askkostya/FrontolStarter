@@ -13,7 +13,7 @@
 </blockquote>
 <blockquote><span style="color: #0000ff;"><strong>FrontolPath = C:\Program Files (x86)\ATOL\Frontol6\BIN\Frontol.exe</strong><br /></span>Путь к файлу запуска программы</blockquote>
 <blockquote><strong><span style="color: #0000ff;">utmURL = <a href="http://localhost:8080/info/version">http://localhost:8080/info/version</a><br /></span></strong>HTTP адрес страницы УТМ. Данный параметр не будет использоваться если значение waitUTMPage=0 Оставьте значение по умолчанию если не требуется проверять состояние УТМ</blockquote>
-<blockquote><span style="color: #0000ff;"><strong>servicesNeedStart = Transport, Transport-Updater</strong><br /></span>Список сервисов через запятую состояние которых необходимо проверить</blockquote>
+<blockquote><span style="color: #0000ff;"><strong>servicesNeedStart = Transport, Transport-Updater</strong><br /></span>Список сервисов через запятую состояние которых необходимо проверить и при необходимости запустить</blockquote>
 <blockquote><span style="color: #0000ff;"><strong>serviceRetryCount = 5<br /></strong></span>Количество попыток запуска служб</blockquote>
 <blockquote><span style="color: #0000ff;"><strong>waitUTMPage=1<br /></strong></span>Ожидать готовность страницы УТМ. Если готовность УТМ проверять не требуется, необходимо данный параметр установить в 0</blockquote>
 <blockquote><span style="color: #0000ff;"><strong>utmwwwRetryCount = 10<br /></strong></span>Количество попыток проверки доступности страницы УТМ</blockquote>
