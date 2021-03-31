@@ -17,5 +17,5 @@
 <blockquote><span style="color: #0000ff;"><strong>serviceRetryCount = 5<br /></strong></span>Количество попыток запуска служб</blockquote>
 <blockquote><span style="color: #0000ff;"><strong>waitUTMPage=1<br /></strong></span>Ожидать готовность страницы УТМ. Если готовность УТМ проверять не требуется, необходимо данный параметр установить в 0</blockquote>
 <blockquote><span style="color: #0000ff;"><strong>utmwwwRetryCount = 10<br /></strong></span>Количество попыток проверки доступности страницы УТМ</blockquote>
-<blockquote>ВНИМАНИЕ. Для работы с сервисами пользователю от которого запускается скрипт требуются административные права svcadmin позволяет задать права доступа на запуск определенных сервисов</blockquote>
+<blockquote>ВНИМАНИЕ. Для работы с сервисами (запуск сервиса) пользователю от которого запускается скрипт требуются административные права svcadmin позволяет задать права доступа на запуск определенных сервисов</blockquote>
 <blockquote> Embeddable версию Python со требуемыми библиотеками можно взять https://github.com/askkostya/ZabbixUpdater/tree/master/files/Python </blockquote>
